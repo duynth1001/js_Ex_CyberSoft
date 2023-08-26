@@ -1,4 +1,0 @@
-hello, my name is Duy
-I am 24 years old
-another 
-TEST
